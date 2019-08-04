@@ -1,0 +1,16 @@
+{
+  "main.css": "/f7test/build/static/css/main.77b229ac.chunk.css",
+  "main.js": "/f7test/build/static/js/main.58d9b6a1.chunk.js",
+  "main.js.map": "/f7test/build/static/js/main.58d9b6a1.chunk.js.map",
+  "static/css/1.d0d578fd.chunk.css": "/f7test/build/static/css/1.d0d578fd.chunk.css",
+  "static/js/1.90c3ff26.chunk.js": "/f7test/build/static/js/1.90c3ff26.chunk.js",
+  "static/js/1.90c3ff26.chunk.js.map": "/f7test/build/static/js/1.90c3ff26.chunk.js.map",
+  "runtime~main.js": "/f7test/build/static/js/runtime~main.7cd32ef3.js",
+  "runtime~main.js.map": "/f7test/build/static/js/runtime~main.7cd32ef3.js.map",
+  "static/media/icons.css": "/f7test/build/static/media/MaterialIcons-Regular.a37b0c01.ttf",
+  "static/css/1.d0d578fd.chunk.css.map": "/f7test/build/static/css/1.d0d578fd.chunk.css.map",
+  "static/css/main.77b229ac.chunk.css.map": "/f7test/build/static/css/main.77b229ac.chunk.css.map",
+  "index.html": "/f7test/build/index.html",
+  "precache-manifest.863b9c6f0691ce282e4ce47156f258fb.js": "/f7test/build/precache-manifest.863b9c6f0691ce282e4ce47156f258fb.js",
+  "service-worker.js": "/f7test/build/service-worker.js"
+}
