@@ -1,5 +1,6 @@
 {
   "name": "framework7-react-app-template",
+  "homepage": "https://alexpanich.github.io/f7test/",
   "version": "4.0.0",
   "private": true,
   "dependencies": {
