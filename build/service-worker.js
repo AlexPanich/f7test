@@ -33,8 +33,8 @@ workbox.routing.registerNavigationRoute("/f7test/build/index.html", {
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
 
-var dataCacheName = 'weatherData-v1';
-var cacheName = 'weatherPWA-step-8-1';
+var dataCacheName = 'f7test';
+var cacheName = 'f7test';
 var filesToCache = [
   '/f7test/build/',
   '/f7test/build/index.html'
